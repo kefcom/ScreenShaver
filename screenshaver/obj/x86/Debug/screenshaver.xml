@@ -1,0 +1,65 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+screenshaver
+</name>
+</assembly>
+<members>
+<member name="P:screenshaver.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:screenshaver.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:screenshaver.My.Resources.Resources.fancy">
+	<summary>
+  Looks up a localized string similar to &lt;!DOCTYPE HTML&gt;
+&lt;html&gt;
+&lt;head&gt;
+&lt;meta http-equiv="Content-Type" content="text/html; charset=UTF-8"&gt;
+&lt;title&gt;jSlots Slot Machine - Matthew Lein&lt;/title&gt;
+
+
+&lt;link href='http://fonts.googleapis.com/css?family=Gravitas+One&amp;text=1234567' rel='stylesheet' type='text/css'&gt;
+
+&lt;style type="text/css"&gt;
+    	html, body {
+    		height: 100%;
+    		margin: 0;
+    	}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.jSlots-wrapper {
+    overflow: hidden;
+    height: 100%;
+    width: 100%; /* to size correctly, can  [rest of string was truncated]";.
+</summary>
+</member><member name="P:screenshaver.My.Resources.Resources.website_not_showing_correctly">
+	<summary>
+  Looks up a localized string similar to By default, the Webbrowser control uses IE7 emulation.
+
+This describes how it works: http://msdn.microsoft.com/en-us/library/ie/ee330730%28v=vs.85%29.aspx#browser_emulation
+
+What you need to do is add a new DWord value to these keys with the name of your .exe and give it the value of the browser version you want to emulate:
+
+
+HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_BROWSER_EMULATION
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\MAIN\FeatureContr [rest of string was truncated]";.
+</summary>
+</member><member name="T:screenshaver.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

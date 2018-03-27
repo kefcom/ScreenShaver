@@ -1,0 +1,21 @@
+C:\Users\ernak\AppData\Local\Temporary Projects\screenshaver\bin\Release\screenshaver.exe
+C:\Users\ernak\AppData\Local\Temporary Projects\screenshaver\bin\Release\screenshaver.pdb
+C:\Users\ernak\AppData\Local\Temporary Projects\screenshaver\bin\Release\screenshaver.xml
+C:\Users\ernak\AppData\Local\Temporary Projects\screenshaver\obj\x86\Release\screenshaver.Form1.resources
+C:\Users\ernak\AppData\Local\Temporary Projects\screenshaver\obj\x86\Release\screenshaver.Resources.resources
+C:\Users\ernak\AppData\Local\Temporary Projects\screenshaver\obj\x86\Release\screenshaver.vbproj.GenerateResource.Cache
+C:\Users\ernak\AppData\Local\Temporary Projects\screenshaver\obj\x86\Release\screenshaver.exe
+C:\Users\ernak\AppData\Local\Temporary Projects\screenshaver\obj\x86\Release\screenshaver.xml
+C:\Users\ernak\AppData\Local\Temporary Projects\screenshaver\obj\x86\Release\screenshaver.pdb
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\obj\x86\Release\screenshaver.exe
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\obj\x86\Release\screenshaver.xml
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\obj\x86\Release\screenshaver.pdb
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\bin\Release\screenshaver.exe
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\bin\Release\screenshaver.pdb
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\bin\Release\screenshaver.xml
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\obj\x86\Release\screenshaver.Form1.resources
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\obj\x86\Release\screenshaver.images.resources
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\obj\x86\Release\screenshaver.Resources.resources
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\obj\x86\Release\screenshaver.slots.resources
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\obj\x86\Release\screenshaver.websites.resources
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\obj\x86\Release\screenshaver.vbproj.GenerateResource.Cache

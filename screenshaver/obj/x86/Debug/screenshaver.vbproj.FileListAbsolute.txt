@@ -1,0 +1,21 @@
+C:\Users\ernak\AppData\Local\Temporary Projects\screenshaver\bin\Debug\screenshaver.exe
+C:\Users\ernak\AppData\Local\Temporary Projects\screenshaver\bin\Debug\screenshaver.pdb
+C:\Users\ernak\AppData\Local\Temporary Projects\screenshaver\bin\Debug\screenshaver.xml
+C:\Users\ernak\AppData\Local\Temporary Projects\screenshaver\obj\x86\Debug\screenshaver.Form1.resources
+C:\Users\ernak\AppData\Local\Temporary Projects\screenshaver\obj\x86\Debug\screenshaver.Resources.resources
+C:\Users\ernak\AppData\Local\Temporary Projects\screenshaver\obj\x86\Debug\screenshaver.vbproj.GenerateResource.Cache
+C:\Users\ernak\AppData\Local\Temporary Projects\screenshaver\obj\x86\Debug\screenshaver.exe
+C:\Users\ernak\AppData\Local\Temporary Projects\screenshaver\obj\x86\Debug\screenshaver.xml
+C:\Users\ernak\AppData\Local\Temporary Projects\screenshaver\obj\x86\Debug\screenshaver.pdb
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\bin\Debug\screenshaver.exe
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\bin\Debug\screenshaver.pdb
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\bin\Debug\screenshaver.xml
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\obj\x86\Debug\screenshaver.Form1.resources
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\obj\x86\Debug\screenshaver.Resources.resources
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\obj\x86\Debug\screenshaver.vbproj.GenerateResource.Cache
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\obj\x86\Debug\screenshaver.exe
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\obj\x86\Debug\screenshaver.xml
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\obj\x86\Debug\screenshaver.pdb
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\obj\x86\Debug\screenshaver.images.resources
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\obj\x86\Debug\screenshaver.websites.resources
+C:\Users\ernak\documents\visual studio 2010\Projects\screenshaver\screenshaver\obj\x86\Debug\screenshaver.slots.resources

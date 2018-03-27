@@ -1,0 +1,14 @@
+By default, the Webbrowser control uses IE7 emulation.
+
+This describes how it works: http://msdn.microsoft.com/en-us/library/ie/ee330730%28v=vs.85%29.aspx#browser_emulation
+
+What you need to do is add a new DWord value to these keys with the name of your .exe and give it the value of the browser version you want to emulate:
+
+
+HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_BROWSER_EMULATION
+
+HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\MAIN\FeatureControl\FEATURE_BROWSER_EMULATION
+
+For example add YourAppName.exe with a hex value of 2af9 = emulate IE11
+
+If you're debugging in Visual Studio, you can add YourAppName.vshost.exe

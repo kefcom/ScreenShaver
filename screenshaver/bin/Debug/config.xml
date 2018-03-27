@@ -1,0 +1,10 @@
+<screenshaver config>
+  defaultmode=images
+  defaultfolder=C:\Users\ernak\Pictures
+  defaultimagestime=3000
+  <urls>
+   http://heeeeeeey.com
+   https://twitter.com/hs_hasselt
+   http://www.buienradar.be
+  </urls>
+</screenshaver config>
